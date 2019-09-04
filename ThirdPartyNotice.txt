@@ -3,7 +3,7 @@ Do Not Translate or Localize
 
 
 --------------------------------------------------------------------------------
-lit-element v2.2.0 - The Polymer Authors
+lit-element v2.2.1 - The Polymer Authors
 git+https://github.com/Polymer/lit-element.git
 --------------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 --------------------------------------------------------------------------------
-lit-html v1.1.0 - The Polymer Authors
+lit-html v1.1.2 - The Polymer Authors
 git+https://github.com/Polymer/lit-html.git
 --------------------------------------------------------------------------------
 
@@ -127,7 +127,7 @@ terms above.
 
 
 --------------------------------------------------------------------------------
-webpack v4.31.0 - Tobias Koppers @sokra
+webpack v4.39.2 - Tobias Koppers @sokra
 git+https://github.com/webpack/webpack.git
 --------------------------------------------------------------------------------
 
